@@ -16,7 +16,7 @@ class About extends Component {
 
                <div className="nine columns main-col">
 
-                  <h2>About Me</h2>
+                  <h2>{this.props.t('aboutmetitle')}</h2>
                   <p>
                      {this.props.t('aboutme')}
                   </p>
@@ -25,7 +25,7 @@ class About extends Component {
 
                      <div className="columns contact-details">
 
-                        <h2>Contact Details</h2>
+                        <h2>{this.props.t('contactdetailstitle')}</h2>
                         <p className="address">
                            <span>{this.props.t('name')}</span>
                            <br></br>
