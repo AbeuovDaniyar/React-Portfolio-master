@@ -1,104 +1,98 @@
 {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
-    "socialLinks":[
-        {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-          "className":"fa fa-linkedin"
-        },
-        {
-          "name":"github",
-          "url":"http://github.com/rbhatia46",
-          "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
-      ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
-    "education":[
+  "imagebaseurl": "https://avatars.githubusercontent.com/u/70968370?v=4",
+  "name": "Я Данияр Абеуов",
+  "role": "Я FullStack-разработчик",
+  "linkedinId": " Daniyar Abeuov",
+  "whatsup": "+7 (778) 371 6020",
+  "roleDescription": "Мне нравится узнавать о новых технологиях, разрабатывать новые проекты и решать проблемы. Сейчас я учусь в университете и работаю фрилансером.",
+  "socialLinks": [
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/daniyar-abeuov-19433b210/",
+          "className": "fa fa-linkedin"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+          "name": "github",
+          "url": "https://github.com/AbeuovDaniyar",
+          "className": "fa fa-github"
+      },
+      {
+          "name": "twitter",
+          "url": "https://twitter.com/dannyabeuov",
+          "className": "fa fa-twitter"
       }
-    ],
-    "work":[
+  ],
+  "aboutme": "В настоящее время я учусь в Grand Canyon University",
+  "address": "Казахстан",
+  "website": "https://github.com/AbeuovDaniyar",
+  "education": [
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+          "UniversityName": "Grand Canyon University",
+          "specialization": "Bachelors in Science in Computer Programming",
+          "MonthOfPassing": "Dec",
+          "YearOfPassing": "2023"
       }
-    ],
-    "skillsDescription":"Your skills here",
-    "skills":[
+  ],
+  "skillsDescription": "Technical skills",
+  "skills": [
       {
-        "skillname":"HTML5"
+          "skillname": ".NET Core"
       },
       {
-        "skillname":"CSS"
+          "skillname": "Reactjs"
       },
       {
-        "skillname":"Reactjs"
+          "skillname": "HTML/CSS"
+      }, 
+      {
+          "skillname": "SQL"
+      },
+      {
+          "skillname": "C#"
+      },
+      {
+          "skillname": "EF Core"
       }
-    ],
-    "portfolio":[
+  ],
+  "portfolio": [
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+          "name": "project1",
+          "description": "mobileapp",
+          "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
+          "link": "https://github.com/AbeuovDaniyar"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+          "name": "project2",
+          "description": "mobileapp",
+          "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
+          "link": "https://github.com/AbeuovDaniyar"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+          "name": "project3",
+          "description": "mobileapp",
+          "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
+          "link": "https://github.com/AbeuovDaniyar"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+          "name": "project4",
+          "description": "mobileapp",
+          "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
+          "link": "https://github.com/AbeuovDaniyar"
       }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
-  }
+  ],
+  "emailId" : " dannyabeuov@gmail.com",
+  "phone" : " +7 (778) 371 6020",
+  "aboutmetitle" : "Обо мне",
+  "contactdetailstitle" : "Контакты",
+  "contactmetitle": "Не стесняйтесь обращаться ко мне для любой работы или предложений ниже",
+  "shownavigation": "Показать навигацию",
+  "hidenavigation": "Скрыть навигацию",
+  "navhome": "Главная",
+  "navabout": "Обо мне",
+  "navresume": "Резюме",
+  "navworks": "Проекты",
+  "navcontact": "Контакты",
+  "projectstitle": "Посмотрите некоторые из моих проектов",
+  "educationtitle": "Образование",
+  "skillstitle": "Навыки"
+}

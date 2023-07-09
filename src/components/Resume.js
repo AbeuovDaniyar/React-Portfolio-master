@@ -6,7 +6,6 @@ import { withTranslation } from 'react-i18next';
 class Resume extends Component {
   render() {
     let education = this.props.t("education", { returnObjects: true });
-    let work = this.props.t("work", { returnObjects: true });
     let skills = this.props.t("skills", { returnObjects: true });
     return (
       <section id="resume">
@@ -14,7 +13,7 @@ class Resume extends Component {
          <div className="row education">
 
             <div className="three columns header-col">
-               <h1><span>Education</span></h1>
+               <h1><span>{this.props.t('educationtitle')}</span></h1>
             </div>
 
             <div className="nine columns main-col">
@@ -41,7 +40,7 @@ class Resume extends Component {
          <div className="row skill">
 
             <div className="three columns header-col">
-               <h1><span>Skills</span></h1>
+               <h1><span>{this.props.t('skillstitle')}</span></h1>
             </div>
 
             <div className="nine columns main-col">

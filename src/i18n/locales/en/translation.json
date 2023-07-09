@@ -1,7 +1,7 @@
 {
     "imagebaseurl": "https://avatars.githubusercontent.com/u/70968370?v=4",
-    "name": "Daniyar Abeuov",
-    "role": "FullStack Developer",
+    "name": "I am Daniyar Abeuov",
+    "role": "I am a FullStack Developer",
     "linkedinId": " Daniyar Abeuov",
     "whatsup": "+7 (778) 371 6020",
     "roleDescription": "I like to learn about new technologies, develop new projects and solve problems. I am currently studying at the university and working as a freelancer.",
@@ -56,30 +56,43 @@
     ],
     "portfolio": [
         {
-            "name": "project1",
-            "description": "mobileapp",
-            "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
-            "link": "https://github.com/AbeuovDaniyar"
+            "name": "Bible App",
+            "description": "webapp",
+            "imgurl": "https://dg.imgix.net/get-more-from-the-bible-this-year-riqkc7bg-en/landscape/get-more-from-the-bible-this-year-riqkc7bg-a6841d3f40168705fd31c6259caf6d92.png?ts=1606841268&ixlib=rails-4.3.1&auto=format%2Ccompress&fit=min&w=700&h=394&dpr=2&ch=Width%2CDPR",
+            "link": "https://github.com/AbeuovDaniyar/BibleApp"
         },
         {
-            "name": "project2",
-            "description": "mobileapp",
-            "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
-            "link": "https://github.com/AbeuovDaniyar"
+            "name": "Minesweeper",
+            "description": "webapp",
+            "imgurl": "https://i.ytimg.com/vi/jpYDF90T3VU/maxresdefault.jpg",
+            "link": "https://github.com/AbeuovDaniyar/CST350"
         },
         {
-            "name": "project3",
-            "description": "mobileapp",
-            "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
-            "link": "https://github.com/AbeuovDaniyar"
+            "name": "Product Management System",
+            "description": "webapp",
+            "imgurl": "https://www.productplan.com/uploads/Stages-in-Product-Management-Process.png",
+            "link": "https://github.com/AbeuovDaniyar/CST391"
         },
         {
-            "name": "project4",
+            "name": "E Commerce Website",
             "description": "mobileapp",
-            "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
-            "link": "https://github.com/AbeuovDaniyar"
+            "imgurl": "https://www.thestatesman.com/wp-content/uploads/2020/10/iStock-ecomm.jpg",
+            "link": "https://github.com/AbeuovDaniyar/E-Commerce-Store"
         }
     ],
     "emailId" : " dannyabeuov@gmail.com",
-    "phone" : " +7 (778) 371 6020"
+    "phone" : " +7 (778) 371 6020",
+    "aboutmetitle" : "About Me",
+    "contactdetailstitle" : "Contact Details",
+    "contactmetitle": "Feel free to contact me for any work or suggestions below",
+    "shownavigation": "Show Navigation",
+    "hidenavigation": "Hide Navigation",
+    "navhome": "Home",
+    "navabout": "About",
+    "navresume": "Resume",
+    "navworks": "Projects",
+    "navcontact": "Contact",
+    "projectstitle": "Check out some of my projects",
+    "educationtitle": "Education",
+    "skillstitle": "Skills"
 }
