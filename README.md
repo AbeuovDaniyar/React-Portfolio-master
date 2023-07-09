@@ -42,12 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a project for LogopedLand speech center to deliver a modern website that suits their style and taste. 
-
-The project features highlights:
-* Search by verse
-* Filter by Old/New Testament
-* Search by keyword
+This is a personal project to better present my resume
 
 
 
