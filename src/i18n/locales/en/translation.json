@@ -1,0 +1,85 @@
+{
+    "imagebaseurl": "https://avatars.githubusercontent.com/u/70968370?v=4",
+    "name": "Daniyar Abeuov",
+    "role": "FullStack Developer",
+    "linkedinId": " Daniyar Abeuov",
+    "whatsup": "+7 (778) 371 6020",
+    "roleDescription": "I like to learn about new technologies, develop new projects and solve problems. I am currently studying at the university and working as a freelancer.",
+    "socialLinks": [
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/daniyar-abeuov-19433b210/",
+            "className": "fa fa-linkedin"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/AbeuovDaniyar",
+            "className": "fa fa-github"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dannyabeuov",
+            "className": "fa fa-twitter"
+        }
+    ],
+    "aboutme": "I am currently a student at Grand Canyon University",
+    "address": "Kazakhstan",
+    "website": "https://github.com/AbeuovDaniyar",
+    "education": [
+        {
+            "UniversityName": "Grand Canyon University",
+            "specialization": "Bachelors in Science in Computer Programming",
+            "MonthOfPassing": "Dec",
+            "YearOfPassing": "2023"
+        }
+    ],
+    "skillsDescription": "Technical skills",
+    "skills": [
+        {
+            "skillname": ".NET Core"
+        },
+        {
+            "skillname": "Reactjs"
+        },
+        {
+            "skillname": "HTML/CSS"
+        }, 
+        {
+            "skillname": "SQL"
+        },
+        {
+            "skillname": "C#"
+        },
+        {
+            "skillname": "EF Core"
+        }
+    ],
+    "portfolio": [
+        {
+            "name": "project1",
+            "description": "mobileapp",
+            "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
+            "link": "https://github.com/AbeuovDaniyar"
+        },
+        {
+            "name": "project2",
+            "description": "mobileapp",
+            "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
+            "link": "https://github.com/AbeuovDaniyar"
+        },
+        {
+            "name": "project3",
+            "description": "mobileapp",
+            "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
+            "link": "https://github.com/AbeuovDaniyar"
+        },
+        {
+            "name": "project4",
+            "description": "mobileapp",
+            "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
+            "link": "https://github.com/AbeuovDaniyar"
+        }
+    ],
+    "emailId" : " dannyabeuov@gmail.com",
+    "phone" : " +7 (778) 371 6020"
+}
