@@ -55,31 +55,31 @@
       }
   ],
   "portfolio": [
-      {
-          "name": "project1",
-          "description": "mobileapp",
-          "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
-          "link": "https://github.com/AbeuovDaniyar"
-      },
-      {
-          "name": "project2",
-          "description": "mobileapp",
-          "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
-          "link": "https://github.com/AbeuovDaniyar"
-      },
-      {
-          "name": "project3",
-          "description": "mobileapp",
-          "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
-          "link": "https://github.com/AbeuovDaniyar"
-      },
-      {
-          "name": "project4",
-          "description": "mobileapp",
-          "imgurl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/chris-ried-512801-unsplash.jpg",
-          "link": "https://github.com/AbeuovDaniyar"
-      }
-  ],
+    {
+        "name": "Bible App",
+        "description": "webapp",
+        "imgurl": "https://dg.imgix.net/get-more-from-the-bible-this-year-riqkc7bg-en/landscape/get-more-from-the-bible-this-year-riqkc7bg-a6841d3f40168705fd31c6259caf6d92.png?ts=1606841268&ixlib=rails-4.3.1&auto=format%2Ccompress&fit=min&w=700&h=394&dpr=2&ch=Width%2CDPR",
+        "link": "https://github.com/AbeuovDaniyar/BibleApp"
+    },
+    {
+        "name": "Minesweeper",
+        "description": "webapp",
+        "imgurl": "https://i.ytimg.com/vi/jpYDF90T3VU/maxresdefault.jpg",
+        "link": "https://github.com/AbeuovDaniyar/CST350"
+    },
+    {
+        "name": "Product Management System",
+        "description": "webapp",
+        "imgurl": "https://www.productplan.com/uploads/Stages-in-Product-Management-Process.png",
+        "link": "https://github.com/AbeuovDaniyar/CST391"
+    },
+    {
+        "name": "E Commerce Website",
+        "description": "mobileapp",
+        "imgurl": "https://www.thestatesman.com/wp-content/uploads/2020/10/iStock-ecomm.jpg",
+        "link": "https://github.com/AbeuovDaniyar/E-Commerce-Store"
+    }
+],
   "emailId" : " dannyabeuov@gmail.com",
   "phone" : " +7 (778) 371 6020",
   "aboutmetitle" : "Обо мне",
